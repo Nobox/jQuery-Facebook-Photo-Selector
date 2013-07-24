@@ -1,0 +1,12 @@
+{
+  "name": "jQuery-Facebook-Photo-Selector",
+  "version": "1.0.0",
+  "main": "csphotoselector.js",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
